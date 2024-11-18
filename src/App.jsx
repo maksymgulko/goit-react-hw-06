@@ -19,10 +19,6 @@ function App() {
   //   window.localStorage.setItem("saved-contacts", JSON.stringify(contact));
   // }, [contact]);
 
-  // const filteredContacts = contact.filter((item) =>
-  //   item.name.toLowerCase().includes(filter.toLowerCase())
-  // );
-
   // const addContact = (newContact) => {
   //   setContact((prevContacts) => {
   //     return [...prevContacts, newContact];
